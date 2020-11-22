@@ -82,7 +82,7 @@ def main():
     print(' ')
     print('Hello! Welcome to password Locker')
     while True:
-        print("--"*50)
+        print(".."*70)
         print('\n')
         
         print('Use these short codes: \n cr - Create an Account \n lg - Login \n ex - Exit')
