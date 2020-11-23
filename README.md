@@ -17,4 +17,4 @@ Redirects the user on some instructions on how to guide through the application 
 # Author
 Abdisamad Mohamed
 # licence
-MIT
+
