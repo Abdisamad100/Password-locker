@@ -1,6 +1,6 @@
 import unittest # Importing the unittest 
-from credentials import Credentials
-import pyperclip
+from credentials import Credentials #importing credential class
+import pyperclip # importing pyperclip module
 
 
 class TestCredentials(unittest.TestCase):
