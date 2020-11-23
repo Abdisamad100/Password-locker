@@ -12,9 +12,9 @@ Behaviour   Input   Output
 Use your terminal   Type this command in the terminal ./run.py and press enter  The terminal displays a statement
 Input data to answer the statement asked    Press enter key Some short commands appear
 Redirects the user on some instructions on how to guide through the application Type any of the short commands of your choice   Follow them through to create an account for instanc.
-# technologies used:
+# Technologies used:
  Python3.6
 # Author
 Abdisamad Mohamed
-# licence
+# Licence
 MIT
